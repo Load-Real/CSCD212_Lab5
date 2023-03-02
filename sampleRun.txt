@@ -1,0 +1,46 @@
+ 
+  ----jGRASP exec: java cscd212lab5.CSCD212Lab5
+ Marvin the Martian has 100 life points and has recovery mode of RecoveryNone
+ 
+ Marvin is shot and takes 80 damage.
+ Marvin the Martian has 20 life points and has recovery mode of RecoveryNone
+ 
+ Marvin finds a special item which gives him the ability of percentage based recovery.
+ Marvin uses his recovery ability
+ Marvin the Martian has had 10 recovery points added their current life points
+ Marvin the Martian has 30 life points and has recovery mode of RecoveryFractional
+ 
+ Marvin uses his recovery ability 3 times in a row
+ Marvin the Martian has had 10 recovery points added their current life points
+ Marvin the Martian has 40 life points and has recovery mode of RecoveryFractional
+ Marvin the Martian has had 12 recovery points added their current life points
+ Marvin the Martian has 52 life points and has recovery mode of RecoveryFractional
+ Marvin the Martian has had 15 recovery points added their current life points
+ Marvin the Martian has 67 life points and has recovery mode of RecoveryFractional
+ 
+ Starry the Star Belly Sneetch has 75 life points and has recovery mode of RecoveryLinear
+ 
+ Starry falls off a cliff and takes 5 damage
+ Starry the Star Belly Sneetch has 70 life points and has recovery mode of RecoveryLinear
+ 
+ Starry uses their recovery ability
+ Starry the Star Belly Sneetch has had 5 recovery points added their current life points
+ Starry the Star Belly Sneetch has 75 life points and has recovery mode of RecoveryLinear
+ 
+ Hugh Mann the Human has 50 life points and 100 armor points
+ 
+ Hugh Mann is mauled by an unknown creature for 80 damage
+ Hugh Mann the Human has 50 life points and 20 armor points
+ 
+ Attempting to escape, Hugh Mann is caught in a storm and suffers 30 elemental damage
+ Hugh Mann the Human has 40 life points and 0 armor points
+ 
+ Hugh Mann replaces his broken armor with a 20 armor tunic
+ Hugh Mann the Human has 40 life points and 20 armor points
+ 
+ Returning back to base from the Storm, Hugh Mann runs into the same creature and takes 70 damage
+ Hugh Mann the Human has 0 life points and 0 armor points
+ 
+ 
+  ----jGRASP: operation complete.
+ 
